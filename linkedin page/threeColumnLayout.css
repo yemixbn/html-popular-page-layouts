@@ -27,12 +27,12 @@ header input[type="search"] {
 
 .left-sidebar {
     flex: 1;
-    background-color: #ffb6c1; /* Light pink */
+    background-color: #ffb6c1;
 }
 
 .main-content {
     flex: 2;
-    background-color: #add8e6; /* Light blue */
+    background-color: #add8e6; 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -40,7 +40,7 @@ header input[type="search"] {
 
 .right-sidebar {
     flex: 1;
-    background-color: #ffcccb; /* Light coral */
+    background-color: #ffcccb; 
 }
 
 .post {
